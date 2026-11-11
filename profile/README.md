@@ -21,6 +21,7 @@ Koko is still under development. Follow the repository for progress and project 
 
 ## Get started
 
+- [Koko website](https://koko.lizardbyte.dev/)
 - [Koko repository](https://github.com/KokoStreamTV/Koko)
 - [Koko documentation](https://docs.lizardbyte.dev/projects/koko/latest/)
 - [Join the community](https://app.lizardbyte.dev/discord)
